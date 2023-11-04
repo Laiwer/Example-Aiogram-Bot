@@ -1,5 +1,4 @@
 from aiogram import executor
-
 from loader import dp
 import handlers
 from utils.notify_admins import on_startup_notify, on_shutdown_notify
